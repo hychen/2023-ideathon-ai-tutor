@@ -14,3 +14,9 @@
 - /self-evaluation  :: 諮詢三位專家，針對產生出的未來新聞給予評價。
 - /improve :: 根據三位專家的建議，改進未來新聞。
 - /continue :: 告知 AI 做下一步動作。
+
+## 建議
+- GPT Plus 訂閱方案。( GPT 3.5 效果比 GPT-4 好)
+
+## 快速開始
+- 複製貼上這個 prompt 到 ChatGPT。
